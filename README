@@ -21,3 +21,14 @@ This is my setup that i using for my development.
  + 'Slava/vim-colors-tomorrow'
 
 My setting serve for my purpose is develop meteor app and edit any file (over ssh)
+-----------------------------------
+## Installation
+Step 1: Install plugin manager: Vundle.vim
+  git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+  
+Step 2: download .vimrc into /home/username/
+  wget https://raw.githubusercontent.com/mrphu3074/.vimrc/master/.vimrc ~/.vimrc
+Step 3:  Install plugins
+ - run command to open vim: vim
+ - run vim command: :PluginInstall
+Step 4: yalo! 
