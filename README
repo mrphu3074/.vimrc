@@ -1,2 +1,23 @@
-My Custom vim configuration
+Mrphu's Vim configuration
 
+This is my setup that i using for my development.
+- List plugins i using:
+ + 'gmarik/Vundle.vim' 
+ + 'tpope/vim-fugitive' 
+ + 'kien/ctrlp.vim' 
+ + 'pangloss/vim-javascript' 
+ + 'bling/vim-airline' 
+ + 'jiangmiao/auto-pairs' 
+ + 'terryma/vim-multiple-cursors' 
+ + 'sjl/gundo.vim' 
+ + 'gregsexton/MatchTag' 
+ + 'tomtom/tcomment_vim' 
+ + 'kchmck/vim-coffee-script' 
+ + 'leshill/vim-json' 
+ + 'groenewege/vim-less' 
+ + 'Slava/vim-spacebars' 
+ + 'rstacruz/sparkup' 
+ + 'alpaca-tc/beautify.vim' 
+ + 'Slava/vim-colors-tomorrow'
+
+My setting serve for my purpose is develop meteor app and edit any file (over ssh)
